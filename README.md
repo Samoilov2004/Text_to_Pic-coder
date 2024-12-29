@@ -35,4 +35,4 @@ python image_decoder.py decode --image_path "/path/to/your/image.png"
 ```
 
 ### Encoding 'Hello World' message
-<div align="center"> <img src="Text_to_Pic-coder/coder.py" alt="HelloWorld Image" width="400"/> </div>
+<div align="center"> <img src="scripted_helloworld.png" alt="HelloWorld Image" width="400"/> </div>
